@@ -1,2 +1,5 @@
-console.log('index.js');
-console.log('git reset');
+
+
+const handleClick = () => {
+  console.log('random', Math.random() * 10)
+};
